@@ -28,6 +28,6 @@
     "@live-change/dao": "^0.2.22",
     "@live-change/interval-tree": "^1.0.12",
     "napi-macros": "^2.0.0",
-    "node-lmdb": "^0.8.0"
+    "node-lmdb": "^0.9.6"
   }
 }
